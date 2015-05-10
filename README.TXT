@@ -10,7 +10,7 @@
 //		Idle      --> Run or Error
 //		Run       --> Idle or Error
 //	  Error     --> Idle
-//User:	
+//  User:	
 //    Button_1 (left) to simulate user action
 //		Button_2 (right) to simulate fault, error
 //
